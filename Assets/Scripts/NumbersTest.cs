@@ -20,6 +20,8 @@ public class NumbersTest : MonoBehaviour
         //number = number + 1;
         number++;
         print(number);
-        
+        print(number);
+
+
     }
 }
