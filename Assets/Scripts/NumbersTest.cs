@@ -21,6 +21,7 @@ public class NumbersTest : MonoBehaviour
         number++;
         print(number);
         print(number);
+		print(number);
 
 
     }
